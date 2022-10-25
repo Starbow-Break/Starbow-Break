@@ -4,7 +4,7 @@
 ### 🛠️Tools
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
 
-### 💻Problem Solving
+### 💻Problem Solving ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/)
 
 <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
