@@ -6,7 +6,9 @@
 
 ### 💻Problem Solving ###
 <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/)
+
 [![CodeForces Profile](https://cf.leed.at?id=Starbow_Break)](https://codeforces.com/profile/Starbow_Break)
 
 Notion Page : https://ahead-yttrium-b5c.notion.site/PS-51a039176c1141b196a59e0e54a16a5a
