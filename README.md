@@ -14,7 +14,7 @@ libraries
 
 ### 💻Problem Solving ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/)
-<img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
 
 [![CodeForces Profile](https://cf.leed.at?id=Starbow_Break)](https://codeforces.com/profile/Starbow_Break)
 
