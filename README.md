@@ -2,12 +2,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starbow-Break&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✏️Studying ##
-### language ###
-
+### languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> 
-
 ### libraries ###
-
 <img src="https://img.shields.io/badge/Kotlin Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=Square&logoColor=white"/> <img src="https://img.shields.io/badge/Glide-24A47F?style=flat-square&logo=&logoColor=white"/> 
 ### Tools ###
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
