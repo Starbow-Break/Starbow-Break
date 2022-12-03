@@ -19,7 +19,7 @@ libraries
 ### codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=Starbow_Break)](https://codeforces.com/profile/Starbow_Break)
 ### AtCoder ###
-<img src="https://atrating.baoshuo.dev/rating?username=Starbow_Break?style=plastic&logo=appveyor">
+<img src="https://atrating.baoshuo.dev/rating?username=Starbow_Break&style=plastic&logo=appveyor">
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Starbow_Break&theme=algolia)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
