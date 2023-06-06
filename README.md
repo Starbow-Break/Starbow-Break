@@ -23,5 +23,3 @@
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Starbow_Break&theme=algolia)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
-Notion Page : https://ahead-yttrium-b5c.notion.site/PS-51a039176c1141b196a59e0e54a16a5a
-
