@@ -19,7 +19,7 @@
 ### codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=Starbow_Break)](https://codeforces.com/profile/Starbow_Break)
 ### AtCoder ###
-<img src="https://atrating.baoshuo.dev/rating?username=Starbow_Break&style=plastic&logo=appveyor">
+[![Atcoder your_handle](https://atcoder.junah.dev/v1/generate_badge?name=Starbow_Break)](https://atcoder.jp/users/Starbow_Break)
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Starbow_Break&theme=algolia)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
