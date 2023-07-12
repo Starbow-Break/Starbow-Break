@@ -11,8 +11,7 @@
 ### Libraries ###
 <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=Square&logoColor=white"/> <img src="https://img.shields.io/badge/Glide-24A47F?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 ### Tools ###
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 ## 💻Problem Solving ##
 ### BOJ/solved.ac ###
