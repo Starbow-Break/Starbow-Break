@@ -29,7 +29,7 @@
     - [2023년은 검은 토끼의 해](https://www.acmicpc.net/problem/27494)
     - [알파벳 블록](https://www.acmicpc.net/problem/27497)
 - 알고리즘 문제 검수
-  - Util-Cup (진행중)
+  - 제1회 유틸컵 (진행중)
   - 2023 브실컵 (진행중)
 - SSAFY 10기 (2023.07~ing)
 
