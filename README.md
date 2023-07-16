@@ -26,7 +26,7 @@
 ## 🥇Achievements ##
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 1위
 
-## 🎮Activity ##
+## 👨‍💻Activity ##
 - 알고리즘 문제 출제
   - [2023 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/category/801)
     - [2023년은 검은 토끼의 해](https://www.acmicpc.net/problem/27494)
