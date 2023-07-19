@@ -31,6 +31,7 @@
   - [2023 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/category/801)
     - [2023년은 검은 토끼의 해](https://www.acmicpc.net/problem/27494)
     - [알파벳 블록](https://www.acmicpc.net/problem/27497)
+  - ??? (진행 예정)
 - 알고리즘 문제 검수
   - 제1회 유틸컵 (진행중)
   - 2023 브실컵 (진행중)
