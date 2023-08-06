@@ -13,8 +13,8 @@
 ### Tools ###
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-## 💻Problem Solving ##
-### BOJ/solved.ac ###
+## 💻Problem Solving/⚔️Competitive Programming ##
+### 💻BOJ/solved.ac ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/) <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
 ### ⚔️codeforces ###
 [![CodeForces Profile](https://cf.leed.at?id=Starbow_Break)](https://codeforces.com/profile/Starbow_Break)
