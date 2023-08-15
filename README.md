@@ -24,8 +24,6 @@
 ### ⚔️AtCoder ###
 [![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=starbow_break)](https://atcoder.jp/users/starbow_break)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Starbow_Break&theme=algolia)](https://github.com/KATO-Hiro/AtCoderTrophies)
-
 ## 🥇Achievements ##
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 1위
 
