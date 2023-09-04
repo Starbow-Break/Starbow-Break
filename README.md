@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-### Libraries ###
+### Libraries/Framework ###
 <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=Square&logoColor=white"/> <img src="https://img.shields.io/badge/Glide-24A47F?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 ### Tools ###
