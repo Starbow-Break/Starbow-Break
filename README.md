@@ -42,7 +42,7 @@
   - 제1회 유틸컵 (진행 중)
     - [Chapter 1](https://www.acmicpc.net/category/detail/3675)
     - Chapter 2 (진행 중) 
-  - 2023 브실컵 (진행 중)
+  - [2023 브실컵](https://www.acmicpc.net/category/detail/3876)
 - SSAFY 10기 (2023.07~ing)
 
 ## 📜Certification ##
