@@ -29,6 +29,7 @@
 
 ## 🥇Achievements ##
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 1위
+- 삼성 SW 역량테스트 B형(Pro) 취득
 
 ## 👨‍💻Activity ##
 - 알고리즘 문제 출제
