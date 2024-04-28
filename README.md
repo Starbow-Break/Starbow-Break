@@ -6,10 +6,10 @@
 
 ## ✏️Studying ##
 ### Languages ###
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 ### Libraries/Framework ###
 <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square&logo=Square&logoColor=white"/> <img src="https://img.shields.io/badge/Glide-24A47F?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 ### Tools ###
@@ -36,7 +36,6 @@
     - 2023년은 검은 토끼의 해 [Normal](https://www.acmicpc.net/problem/27494)/[Hard](https://www.acmicpc.net/problem/29773)
     - [알파벳 블록](https://www.acmicpc.net/problem/27497)
   - [제1회 스타보우컵](https://www.acmicpc.net/category/detail/4047)
-  - ??? (진행 예정)
   - ??? (진행 예정)
 - 알고리즘 문제 검수
   - 제1회 유틸컵 [Chapter 1](https://www.acmicpc.net/category/detail/3675)/[Chapter 2](https://www.acmicpc.net/category/detail/3910) 
