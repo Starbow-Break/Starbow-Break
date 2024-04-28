@@ -7,7 +7,7 @@
 ## ✏️Studying ##
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=c#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 ### Libraries/Framework ###
