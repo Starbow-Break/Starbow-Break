@@ -5,6 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starbow-Break&layout=compact&theme=onedark&langs_count=4)
 
 ### ⭐Interest ###
+- Math
 - Problem Solving
 - Game Client Dev
 
