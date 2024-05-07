@@ -32,7 +32,9 @@
 ## 🗃️Project ##
 정리 중
 - [BeatHerb](https://github.com/Starbow-Break/Beat-Herb)
+  - <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black"/> <img src="https://custom-icon-badges.demolab.com/badge/zustand.svg?style=flat-square&logo=zustand&logoColor=black"/> 
 - [Michelin de Hanyang](https://github.com/Starbow-Break/Michelin-de-Hanyang)
+
 
 ## 👨‍💻Activity ##
 - 알고리즘 문제 출제
