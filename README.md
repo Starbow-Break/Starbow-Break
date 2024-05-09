@@ -14,7 +14,7 @@
 ### 🛠️Tools ###
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white"/>
 
-## 🎈Problem Solving/Competitive Programming ##
+## 🎈PS/CP ##
 ### 🎈BOJ/solved.ac ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/) <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
 ### 🎈solved.ac Arena ###
