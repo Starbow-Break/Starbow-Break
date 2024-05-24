@@ -76,7 +76,7 @@ Client
 </details>
 
 <details>
-<summary>Makja</summary>
+<summary>Makja (<a href="https://github.com/Starbow-Break/MakJa">Link</a>)</summary>
 <div markdown="1">
   
 ### Summary ###
