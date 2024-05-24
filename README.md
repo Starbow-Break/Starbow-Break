@@ -36,18 +36,21 @@
 <details>
 <summary><a href="https://github.com/Starbow-Break/Beat-Herb">BeatHerb</a></summary>
 <div markdown="1">
+  coming soon...
 </div>
 </details>
 
 <details>
 <summary><a href="https://github.com/Starbow-Break/Michelin-de-Hanyang">Michelin de Hanyang</a></summary>
 <div markdown="1">
+  coming soon...
 </div>
 </details>
 
 <details>
 <summary>Makja</summary>
 <div markdown="1">
+  coming soon...
 </div>
 </details>
 
