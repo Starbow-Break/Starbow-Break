@@ -32,7 +32,6 @@
 - 삼성 SW 역량테스트 B형 취득
 
 ## 🗃️Project ##
-정리 중
 <details>
 <summary>BeatHerb (<a href="https://github.com/Starbow-Break/Beat-Herb">Link</a>)</summary>
 <div markdown="1">
