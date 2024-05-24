@@ -34,16 +34,22 @@
 ## 🗃️Project ##
 정리 중
 <details>
-<summary>안;녕하세요</summary>
+<summary><a href="https://github.com/Starbow-Break/Beat-Herb">BeatHerb</a></summary>
 <div markdown="1">
-
-안녕히가세요
-
 </div>
 </details>
-- [BeatHerb](https://github.com/Starbow-Break/Beat-Herb)
-- [Michelin de Hanyang](https://github.com/Starbow-Break/Michelin-de-Hanyang)
 
+<details>
+<summary><a href="https://github.com/Starbow-Break/Michelin-de-Hanyang">Michelin de Hanyang</a></summary>
+<div markdown="1">
+</div>
+</details>
+
+<details>
+<summary>Makja</summary>
+<div markdown="1">
+</div>
+</details>
 
 ## 👨‍💻Activity ##
 - 알고리즘 문제 출제
