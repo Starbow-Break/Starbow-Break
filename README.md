@@ -34,23 +34,38 @@
 ## 🗃️Project ##
 정리 중
 <details>
-<summary><a href="https://github.com/Starbow-Break/Beat-Herb">BeatHerb</a></summary>
+<summary>BeatHerb 2024.01.08 ~ 2024.02.16(6주) (<a href="https://github.com/Starbow-Break/Beat-Herb">Link</a>)</summary>
 <div markdown="1">
-  coming soon...
+  - 누구나 즐길 수 있는 소리 쌓기 서비스
+  - 역할 : FrontEnd
+  - 사용한 기술 스택 : HTML, CSS, javascript, React, Tailwindcss, tone.js, wavesurfer.js, Zustand
+  - React와 tailwindcss를 사용해서 전반적인 웹페이지를 개발했습니다.
+  - wavesurfer.js와 tone.js를 활용하여 음원 편집 기능과 연주 기능을 개발하고 Zustand를 사용하여 토큰 등 전역으로 접근하는 값들을 관리 했습니다.
 </div>
 </details>
 
 <details>
-<summary><a href="https://github.com/Starbow-Break/Michelin-de-Hanyang">Michelin de Hanyang</a></summary>
+<summary>Michelin de Hanyang 2024.02.26 ~ 2024.04.05(6주) (<a href="https://github.com/Starbow-Break/Michelin-de-Hanyang">Link</a>)</summary>
 <div markdown="1">
-  coming soon...
+  - 가상의 인물이 되어 한식당을 운영하는 게임으로 사용자가 직접 탐험을 해 재료들을 획득해 요리를 만들고 식당을 운영하는 요리 RPG 게임
+  - 역할 : Client
+  - 사용한 기술 스택 : Unity, C#
+  - 몬스터의 이동로직과 Collision과 벡터의 내적 연산을 활용하여 시야각을 구현했습니다.
+  - 채집, 낚시, 드롭 아이템 줍기 등 다양한 아이템 획득 방법을 구현했습니다.
+  - 플레이어의 이동, 공격, 피격, 사망을 구현했습니다.
+  - 게임 전반적으로 작동하는 타이머과 관련 UI를 구현했습니다.
 </div>
 </details>
 
 <details>
-<summary>Makja</summary>
+<summary>Makja 2024.04.08 ~ 2024.05.17(6주)</summary>
 <div markdown="1">
-  coming soon...
+  - 캐릭터를 직접 조작하여 즐길 수 있는 3D 타워 디펜스 게임
+  - 역할 : Client
+  - 사용한 기술 스택 : Unreal Engine, C++
+  - 탄막을 발사하는 단일 타워와 범위로 공격하는 광역 타워를 구현했습니다.
+  - 타워 설치를 위한 뷰 전환, 타워 설치, 강화, 판매 로직을 구현했습니다.
+  - 바리케이트와 본진 관련 로직을 구현했습니다.
 </div>
 </details>
 
