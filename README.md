@@ -30,6 +30,7 @@
 - 제38회 대학생 수학 경시대회 (제1분야) 동상
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 1위
 - 삼성 SW 역량테스트 B형 취득
+- 🥈 삼성 청년 SW 아카데미 10기 특화프로젝트 2등
 
 ## 🗃️Project ##
 <details>
@@ -54,7 +55,8 @@ FrontEnd
 <details>
 <summary>Michelin de Hanyang (<a href="https://github.com/Starbow-Break/Michelin-de-Hanyang">Link</a>)</summary>
 <div markdown="1">
-
+  
+🥈 삼성 청년 SW 아카데미 10기 특화프로젝트 2등
 ### Summary ###
 가상의 인물이 되어 한식당을 운영하는 게임으로 사용자가 직접 탐험을 해 재료들을 획득해 요리를 만들고 식당을 운영하는 요리 RPG 게임
 ### Date ###
