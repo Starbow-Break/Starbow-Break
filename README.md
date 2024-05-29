@@ -69,9 +69,9 @@ Client
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 ### Do ###
 - 몬스터의 이동로직과 Collision과 벡터의 내적 연산을 활용하여 시야각 구현
-- 채집, 낚시, 드롭 아이템 줍기 등 다양한 아이템 획득 방법 구현
+- 채집, 낚시, 드롭 아이템 줍기와 같은 다양한 아이템 획득 방법 구현
 - 플레이어의 이동, 공격, 피격, 사망 구현
-- 게임 전반적으로 작동하는 타이머과 관련 UI 구현.
+- 게임 세계의 시간을 표현하는 타이머과 관련 UI 구현
 
 </div>
 </details>
