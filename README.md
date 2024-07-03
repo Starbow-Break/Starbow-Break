@@ -106,7 +106,7 @@ FrontEnd
 - 알고리즘 문제 검수
   - 제1회 유틸컵 [Chapter 1](https://www.acmicpc.net/category/detail/3675)/[Chapter 2](https://www.acmicpc.net/category/detail/3910) 
   - [2023 브실컵](https://www.acmicpc.net/category/detail/3876)
-- SSAFY 10기 (2023.07~ing)
+- SSAFY 10기 (2023.07~2024.06)
 
 ## 📜Certification ##
 - 정보처리기사 (취득일 : 2023-06-09)
