@@ -27,6 +27,7 @@
 [![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=starbow_break)](https://atcoder.jp/users/starbow_break)
 
 ## 🥇Achievements ##
+- 2024 현대모비스 알고리즘 경진대회 일반부 우수상(6등)
 - 제38회 대학생 수학 경시대회 (제1분야) 동상
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 금상(1위)
 - 삼성 SW 역량테스트 B형 취득
