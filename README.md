@@ -26,9 +26,10 @@
 ### 🎈AtCoder ###
 [![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=starbow_break)](https://atcoder.jp/users/starbow_break)
 
-## 🥇Awards ##
+## 🥇Achievements ##
 - 2024 현대모비스 알고리즘 경진대회 일반부 우수상(6등)
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 금상(1등)
+- 삼성 SW 역량테스트 B형
 - 삼성 청년 SW 아카데미 10기 특화프로젝트 우수상
 - 제38회 대학생 수학 경시대회 (제1분야) 동상
 
@@ -111,5 +112,4 @@ FrontEnd
 ## 📜Certification ##
 - 정보처리기사 (취득일 : 2023-06-09)
 - SQLD (취득일 : 2023-10-06)
-- 삼성 SW 역량테스트 B형
 - OPIc IM2
