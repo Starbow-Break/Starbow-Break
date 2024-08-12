@@ -19,7 +19,7 @@
 ### [🎈My overall CP stats](https://clist.by/coder/starbow) ###
 
 ### 🎈BOJ/solved.ac ###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/) <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=warm"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/) <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=cold"/>
 ### 🎈solved.ac Arena ###
 [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=starbow)](https://solved.ac/profile/starbow/arena)
 
