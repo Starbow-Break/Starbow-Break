@@ -31,7 +31,7 @@
 ## 🥇Achievements ##
 - 2024 현대모비스 알고리즘 경진대회 일반부 우수상(6등)
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 금상(1등)
-- 2024 Meta Hacker Cup Round 2 진출
+- Meta Hacker Cup 2024 Round 2 진출
   - Round 1 1492등, Round 2 1098등
 - 삼성 SW 역량테스트 B형
 - 삼성 청년 SW 아카데미 10기 특화프로젝트 우수상
