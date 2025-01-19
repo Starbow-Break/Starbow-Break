@@ -10,7 +10,7 @@
 ### 📚Stack ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 ### 🛠️Tools ###
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 ### ✉️Contact ###
 <a href="mailto:starbow.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@starbow/posts)
@@ -34,14 +34,12 @@
 - Meta Hacker Cup 2024 Round 2 진출 (Round 1 1,492등, Round 2 1,098등)
 - 삼성 SW 역량테스트 B형
 - 삼성 청년 SW 아카데미 10기 특화프로젝트 우수상
-- 제38회 대학생 수학 경시대회 (제1분야) 동상
 
 ## 🗃️Project ##
 <details>
 <summary>Michelin de Hanyang (<a href="https://github.com/Starbow-Break/Michelin-de-Hanyang">Link</a>)</summary>
 <div markdown="1">
 
-\
 🥈 삼성 청년 SW 아카데미 10기 특화프로젝트 우수상(2등)
 ### Summary ###
 가상의 인물이 되어 한식당을 운영하는 게임으로 사용자가 직접 탐험을 해 재료들을 획득해 요리를 만들고 식당을 운영하는 요리 RPG 게임
