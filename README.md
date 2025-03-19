@@ -104,7 +104,9 @@ FrontEnd
     - 2023년은 검은 토끼의 해 [Normal](https://www.acmicpc.net/problem/27494)/[Hard](https://www.acmicpc.net/problem/29773)
     - [알파벳 블록](https://www.acmicpc.net/problem/27497)
   - [제1회 스타보우컵](https://www.acmicpc.net/category/detail/4047)
-  - ??? (진행 예정)
+  - [제2회 유틸컵](https://www.acmicpc.net/contest/view/1400)
+    - [Texture Wrapping](https://www.acmicpc.net/problem/27494)/[Hard](https://www.acmicpc.net/problem/33558)
+    - [Amazing Long Jump](https://www.acmicpc.net/problem/27494)/[Hard](https://www.acmicpc.net/problem/33566)
 - 알고리즘 문제 검수
   - 제1회 유틸컵 [Chapter 1](https://www.acmicpc.net/category/detail/3675)/[Chapter 2](https://www.acmicpc.net/category/detail/3910) 
   - [2023 브실컵](https://www.acmicpc.net/category/detail/3876)
