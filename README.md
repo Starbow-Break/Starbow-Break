@@ -29,10 +29,11 @@
 [![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=starbow_break)](https://atcoder.jp/users/starbow_break)
 
 ## 🥇Achievements ##
+- 2024 멀티캠퍼스 코딩테스트 경진대회 대상(1등)
 - 2024 현대모비스 알고리즘 경진대회 일반부 우수상(6등)
+- Meta Hacker Cup 2024 Round 2
+  - Round 1 1,492등 / 22,494명, Round 2 1,088등 / 5,000명
 - 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 금상(1등)
-- Meta Hacker Cup 2024 Round 2 진출 (Round 1 1,492등, Round 2 1,098등)
-- 삼성 SW 역량테스트 B형
 
 ## 👨‍💻Activity ##
 - 알고리즘 문제 출제
@@ -47,9 +48,9 @@
   - 제1회 유틸컵 [Chapter 1](https://www.acmicpc.net/category/detail/3675)/[Chapter 2](https://www.acmicpc.net/category/detail/3910) 
   - [2023 브실컵](https://www.acmicpc.net/category/detail/3876)
 - SSAFY 10기 (2023.07~2024.06)
+- 메타버스 아카데미 4기 (2025.03.10 ~ 2025.08.08)
 
 ## 📜Certification ##
 - 정보처리기사 (취득일 : 2023-06-09)
 - SQLD (취득일 : 2023-10-06)
-- OPIc IM2
 - PCCP C++ Lv.5 (점수 : 1000/1000)
