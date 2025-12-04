@@ -18,35 +18,7 @@
 ## 🎈PS/CP ##
 ### [🎈My overall CP stats](https://clist.by/coder/starbow) ###
 
-### 🎈BOJ/solved.ac ###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=starbow)](https://solved.ac/starbow/) <img src="http://mazandi.herokuapp.com/api?handle=starbow&theme=cold"/>
-### 🎈solved.ac Arena ###
-[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=starbow)](https://solved.ac/profile/starbow/arena)
-
-### 🎈codeforces ###
-[![CodeForces Profile](https://cf.leed.at?id=Starbow_Break)](https://codeforces.com/profile/Starbow_Break)
-### 🎈AtCoder ###
-[![Atcoder](https://atcoder.junah.dev/v2/generate_badge?name=starbow_break)](https://atcoder.jp/users/starbow_break)
-
-## 🥇Achievements ##
-- 2024 멀티캠퍼스 코딩테스트 경진대회 대상(1등)
-- 2024 현대모비스 알고리즘 경진대회 일반부 우수상(6등)
-- Meta Hacker Cup 2024 Round 2
-  - Round 1 1,492등 / 22,494명, Round 2 1,088등 / 5,000명
-- 2022 홍익대학교 HI-ARC 프로그래밍 경진대회 금상(1등)
-
 ## 👨‍💻Activity ##
-- 알고리즘 문제 출제
-  - [2023 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/category/801)
-    - 2023년은 검은 토끼의 해 [Normal](https://www.acmicpc.net/problem/27494)/[Hard](https://www.acmicpc.net/problem/29773)
-    - [알파벳 블록](https://www.acmicpc.net/problem/27497)
-  - [제1회 스타보우컵](https://www.acmicpc.net/category/detail/4047)
-  - [제2회 유틸컵](https://www.acmicpc.net/contest/view/1400)
-    - [Texture Wrapping](https://www.acmicpc.net/problem/33558)
-    - [Amazing Long Jump](https://www.acmicpc.net/problem/33566)
-- 알고리즘 문제 검수
-  - 제1회 유틸컵 [Chapter 1](https://www.acmicpc.net/category/detail/3675)/[Chapter 2](https://www.acmicpc.net/category/detail/3910) 
-  - [2023 브실컵](https://www.acmicpc.net/category/detail/3876)
 - SSAFY 10기 (2023.07~2024.06)
 - 메타버스 아카데미 4기 (2025.03.10 ~ 2025.08.08)
 
