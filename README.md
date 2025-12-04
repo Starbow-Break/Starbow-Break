@@ -14,15 +14,3 @@
 ### ✉️Contact ###
 <a href="mailto:starbow.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@starbow/posts)
-
-## 🎈PS/CP ##
-### [🎈My overall CP stats](https://clist.by/coder/starbow) ###
-
-## 👨‍💻Activity ##
-- SSAFY 10기 (2023.07~2024.06)
-- 메타버스 아카데미 4기 (2025.03.10 ~ 2025.08.08)
-
-## 📜Certification ##
-- 정보처리기사 (취득일 : 2023-06-09)
-- SQLD (취득일 : 2023-10-06)
-- PCCP C++ Lv.5 (점수 : 1000/1000)
